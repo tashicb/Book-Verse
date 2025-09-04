@@ -81,4 +81,4 @@ The app will be running at http://localhost:5173.
 ---
 
 ### 📄 License
-MIT © 2025 Rohit Singh
+MIT © 2025 Tashi Choden Bhutia
